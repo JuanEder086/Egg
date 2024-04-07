@@ -13,6 +13,7 @@ public class Guia01Ej01 {
    char letra ;
    boolean falso;
    double decimal;
+   int millare;
    float decimal2;
     }
     
